@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\trues\Desktop\TFS Assignments\Term 2\VGP122 Programming Fundamentals 1\In Progress\VGP122_L03_Gailor_Daniel\Q5\Main.cpp(17,33): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\trues\Desktop\TFS Assignments\Term 2\VGP122 Programming Fundamentals 1\In Progress\VGP122_L03_Gailor_Daniel\Q5\Main.cpp(22,32): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\trues\Desktop\TFS Assignments\Term 2\VGP122 Programming Fundamentals 1\In Progress\VGP122_L03_Gailor_Daniel\Q5\Main.cpp(30,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\trues\Desktop\TFS Assignments\Term 2\VGP122 Programming Fundamentals 1\In Progress\VGP122_L03_Gailor_Daniel\Q5\Main.cpp(31,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Q5.vcxproj -> C:\Users\trues\Desktop\TFS Assignments\Term 2\VGP122 Programming Fundamentals 1\In Progress\VGP122_L03_Gailor_Daniel\x64\Debug\Q5.exe
